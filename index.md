@@ -15,6 +15,12 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
+# Ivan's First CS190 Homework
+-The quizzes are pretty cool!
+-The magic words are RADICAL
+-The lecture hall is totally tubular
+-The TA's are representative in every way of what it means to be an outstanding member of society!
+
 - Bulleted
 - List
 
